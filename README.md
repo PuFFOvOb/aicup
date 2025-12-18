@@ -161,11 +161,4 @@ To improve reproducibility:
 
 ---
 
-## 9) Contact / Authors
 
-Fill in your team information here:
-
-- Team: `TEAM_????`
-- Members: `...`
-- Private leaderboard: `Score / Rank`
-- GitHub: `...`
